@@ -18,12 +18,10 @@ Gosto de entender como as coisas funcionam por baixo dos panos, desde estruturar
 
 ### 🚀 No que estou trabalhando?
 
-Atualmente, estou focando no meu Trabalho de Conclusão de Curso (TCC). É uma aplicação integrada com Inteligência Artificial onde estou aplicando toda essa base de APIs, persistência de dados e arquitetura.
+Atualmente, estou focando no meu Trabalho de Conclusão de Curso (TCC). É uma aplicação integrada com Inteligência Artificial onde estou aplicando toda essa base de APIs, persistência de dados e arquitetura
 
----
+Link para o meu LinkedIn
+www.linkedin.com/in/luis-calazans-pozenato-097a66341
 
-### 📬 Vamos trocar uma ideia?
 
-Se quiser conversar sobre backend, Linux, Docker ou tecnologia em geral, me dá um alô:
 
-*   **LinkedIn:** [Luis [Seu Sobrenome]](https://www.linkedin.com/in/seu-usuario-aqui/) 💼
