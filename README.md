@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá, eu sou o Luis! 👋
 
-<!--
-**Pozenatos/Pozenatos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou na reta final do curso técnico em Desenvolvimento de Sistemas e, no meio de tanto código, descobri que o que eu curto de verdade são os bastidores: a lógica, o desenvolvimento backend e a arquitetura de APIs.
 
-Here are some ideas to get you started:
+Gosto de entender como as coisas funcionam por baixo dos panos, desde estruturar um banco de dados até deixar o ambiente rodando redondo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ O que eu uso no dia a dia:
+
+*   **Linguagens:** Kotlin (com uma boa bagagem prática em Android e Jetpack Compose por conta dos meus projetos).
+*   **Backend & Integração:** Criação e consumo de APIs REST.
+*   **Dados:** Modelagem e manipulação de bancos de dados.
+*   **Infraestrutura:** Docker para containerização.
+*   **Sistema Operacional:** Uso o Linux como meu ambiente principal de desenvolvimento e produtividade.
+
+---
+
+### 🚀 No que estou trabalhando?
+
+Atualmente, estou focando no meu Trabalho de Conclusão de Curso (TCC). É uma aplicação integrada com Inteligência Artificial onde estou aplicando toda essa base de APIs, persistência de dados e arquitetura.
+
+---
+
+### 📬 Vamos trocar uma ideia?
+
+Se quiser conversar sobre backend, Linux, Docker ou tecnologia em geral, me dá um alô:
+
+*   **LinkedIn:** [Luis [Seu Sobrenome]](https://www.linkedin.com/in/seu-usuario-aqui/) 💼
